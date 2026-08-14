@@ -67,6 +67,13 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 ---
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=johnlorencemaguate&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  
+  <br /><br />
+
+  <!-- Core Stats & Top Languages -->
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=johnlorencemaguate&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=johnlorencemaguate&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
