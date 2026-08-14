@@ -67,6 +67,9 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 ---
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=johnlorencemaguate&theme=react-dark&hide_border=true&area=false" alt="Native GitHub Contribution Grid" />
+</div>
+<div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="60%">
