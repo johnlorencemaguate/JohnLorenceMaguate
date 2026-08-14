@@ -1,13 +1,13 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=John%20Lorence%20Maguate&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-  
+
   <p align="center">
     <b>Full-Stack Developer | IT Professional | Systems Integrator</b>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=maguatejohnlorence&color=0083B0&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=johnlorencemaguate&color=0083B0&style=flat-square&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-POS%20%26%20Inventory%20Automation-brightgreen?style=flat-square" alt="Current Focus" />
     <img src="https://img.shields.io/badge/Location-Cavite%2C%20PH-blue?style=flat-square" alt="Location" />
   </p>
@@ -71,11 +71,11 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 <div align="center">
   <!-- Stats & Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=johnlorencemaguate&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlorencemaguate&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
-  
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnlorencemaguate&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnlorencemaguate&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
+
   <br /><br />
-  
+
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
