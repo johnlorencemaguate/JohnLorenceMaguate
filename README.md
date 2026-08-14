@@ -67,12 +67,12 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 ---
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" valign="top" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnlorencemaguate&theme=github_dark" alt="John's Native Dark Contribution Grid" />
+      <td align="center" valign="middle" width="60%">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=johnlorencemaguate&theme=github-dark-dimmed&hide_border=true&area=false" alt="John's Native Dark Contribution Grid" />
       </td>
-      <td align="center" valign="top" width="50%">
+      <td align="center" valign="middle" width="40%">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
