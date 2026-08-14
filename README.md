@@ -1,63 +1,97 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bubblegum+Sans&size=32&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+John+Lorence+Maguate;" />
-</h1>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=John%20Lorence%20Maguate&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  
+  <p align="center">
+    <b>Full-Stack Developer | IT Professional | Systems Integrator</b>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=maguatejohnlorence&color=0083B0&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Focus-POS%20%26%20Inventory%20Automation-brightgreen?style=flat-square" alt="Current Focus" />
+    <img src="https://img.shields.io/badge/Location-Cavite%2C%20PH-blue?style=flat-square" alt="Location" />
+  </p>
+</div>
 
 ---
 
 ### 💫 About Me
-I am a passionate **Full-Stack Developer** and **IT Professional** dedicated to building functional, user-centric web applications and managing robust IT systems. Currently focusing on automating business workflows through custom POS solutions.
 
-- 🔭 **Currently working on:** [DWE POS & Inventory Management System](https://github.com/JohnnyCodeJourney/DWE_Project)
-- 🚀 **Past Success:** Developed a full-stack Coffee Shop POS and an Educational Unity Game.
-- ⚡ **Fun Fact:** I enjoy exploring the intersection of modern UI design and efficient backend logic.
+I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise in building responsive web applications, streamlining retail workflows, and managing hardware/software infrastructure.
+
+* 🔭 **Currently Building:** **[DWE POS & Inventory Management System](https://github.com/JohnnyCodeJourney/DWE_Project)** — A retail automation solution for stock tracking and sales.
+* 🚀 **Key Highlights:** Developed **Hacer Café** (Coffee Shop POS) and **Tiny Explorer** (Preschool Educational Game).
+* 🛠️ **Core Strengths:** React, Tailwind CSS, PHP, MySQL, Unity (C#), and System Diagnostics.
+* ⚡ **Fun Fact:** I bridge the gap between software development and hands-on IT infrastructure!
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Technologies
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-        <br><b>Frontend / JS</b>
-    </td>
-    <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=php,py,cs,mysql,firebase" />
-        <br><b>Backend / DB</b>
-    </td>
-    <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=git,vite,unity,tailwind,postman" />
-        <br><b>Tools & Frameworks</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200"><b>Frontend & UI</b></td>
+      <td align="center" width="200"><b>Backend & DB</b></td>
+      <td align="center" width="200"><b>Tools & Engine</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Tech" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=php,py,cs,mysql,firebase" alt="Backend Tech" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,postman" alt="Tools Tech" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[DWE POS](https://github.com/JohnnyCodeJourney/DWE_Project)** | A comprehensive Inventory & Sales system. | React, Tailwind, MySQL |
-| **[Coffee Shop POS](https://github.com/maguatejohnlorence/Coffee-Shop-POS)** | Full-stack ordering system for cafes. | PHP, JavaScript |
-| **[Tiny Explorer](https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer)** | Educational Unity game for preschoolers. | C#, Unity |
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🛒 **DWE POS** | Comprehensive inventory management, stock tracking, and sales analytics system. | `React` `Tailwind` `MySQL` | [View Code](https://github.com/JohnnyCodeJourney/DWE_Project) |
+| ☕ **Hacer Café POS** | Full-stack ordering and menu management system for coffee shops. | `PHP` `JavaScript` `MySQL` | [View Code](https://github.com/maguatejohnlorence/Coffee-Shop-POS) |
+| 🎮 **Tiny Explorer** | Interactive educational game designed for early childhood learning. | `Unity` `C#` `JSON` | [View Code](https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer) |
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=react&hide_border=true" />
-</p>
-<p align="center">
-  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence&theme=react&hide_border=true" />
-</p>
+<div align="center">
+  <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguatejohnlorence&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="center">
-<a href="mailto:maguatejohnlorence@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/john-lorence-maguate-a7a787311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/srxndpty"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+
+<div align="center">
+  <a href="mailto:maguatejohnlorence@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/john-lorence-maguate-a7a787311">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/maguatejohnlorence">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/srxndpty">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
