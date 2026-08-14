@@ -66,7 +66,7 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 | 🎮 **Tiny Explorer** | Interactive educational game designed for early childhood learning. | `Unity` `C#` `JSON` | [View Code](https://github.com/johnlorencemaguate/Educational-Game-Tiny-Explorer) |
 
 ---
-
+<div align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
