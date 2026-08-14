@@ -62,8 +62,8 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | 🛒 **DWE POS** | Comprehensive inventory management, stock tracking, and sales analytics system. | `React` `Tailwind` `MySQL` | [View Code](https://github.com/JohnnyCodeJourney/DWE_Project) |
-| ☕ **Hacer Café POS** | Full-stack ordering and menu management system for coffee shops. | `PHP` `JavaScript` `MySQL` | [View Code](https://github.com/maguatejohnlorence/Coffee-Shop-POS) |
-| 🎮 **Tiny Explorer** | Interactive educational game designed for early childhood learning. | `Unity` `C#` `JSON` | [View Code](https://github.com/maguatejohnlorence/Educational-Game-Tiny-Explorer) |
+| ☕ **Hacer Café POS** | Full-stack ordering and menu management system for coffee shops. | `PHP` `JavaScript` `MySQL` | [View Code](https://github.com/johnlorencemaguate/Coffee-Shop-POS) |
+| 🎮 **Tiny Explorer** | Interactive educational game designed for early childhood learning. | `Unity` `C#` `JSON` | [View Code](https://github.com/johnlorencemaguate/Educational-Game-Tiny-Explorer) |
 
 ---
 
@@ -72,9 +72,9 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 <div align="center">
   <br />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguatejohnlorence&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlorencemaguate&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maguatejohnlorence&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
   <a href="https://linkedin.com/in/john-lorence-maguate-a7a787311">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/maguatejohnlorence">
+  <a href="https://github.com/johnlorencemaguate">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://instagram.com/srxndpty">
