@@ -67,10 +67,15 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 ---
 <div align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnlorencemaguate&theme=github_dark" alt="John's Native Dark Contribution Grid" />
 
+<div align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnlorencemaguate&theme=github_dark" alt="John's Native Dark Contribution Grid" />
+</div>
+
+<div align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 </div>
 
 ---
