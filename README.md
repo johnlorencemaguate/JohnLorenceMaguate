@@ -67,11 +67,7 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 ---
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnlorencemaguate/johnlorencemaguate/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnlorencemaguate/johnlorencemaguate/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/johnlorencemaguate/johnlorencemaguate/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" src="https://ghchart.rshah.org/00B4DB/johnlorencemaguate" alt="John Lorence's Github Contribution Chart" />
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
