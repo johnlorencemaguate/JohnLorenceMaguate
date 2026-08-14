@@ -70,11 +70,14 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maguatejohnlorence&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlorencemaguate&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <!-- Stats & Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=johnlorencemaguate&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlorencemaguate&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
+  
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
