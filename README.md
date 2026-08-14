@@ -70,7 +70,7 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
   <table border="0">
     <tr>
       <td align="center" valign="middle" width="60%">
-        <img width="100%" src="https://ghchart.rshah.org/39d353/johnlorencemaguate?bg=161b22" alt="John's Dark Mode Contribution Grid" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=johnlorencemaguate&theme=github-dark&hide_border=true&area=false" alt="John's Dark Contribution Grid" />
       </td>
       <td align="center" valign="middle" width="40%">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
