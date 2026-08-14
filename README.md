@@ -67,7 +67,7 @@ I am a dedicated **Full-Stack Developer** and **IT Professional** with expertise
 
 ---
 <div align="center">
-<img width="100%" src="https://ghchart.rshah.org/39d353/johnlorencemaguate" alt="John Lorence's Github Contribution Grid" />
+<img width="100%" src="https://kaxes.vercel.app/api/github/chart/johnlorencemaguate?theme=dark" alt="John's Dark Mode Grid" />
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlorencemaguate&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
